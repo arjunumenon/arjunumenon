@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏦 I work for Tata Consultancy Services (TCS)
-- 🎖 I am a [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/en-us/PublicProfile/5004715) in M365 Development category
+- 🎖 I am a Microsoft [Most Valuable Professional (MVP)](https://mvp.microsoft.com/en-us/PublicProfile/5004715) in M365 Development category
 - 👯 I'm a member of [Microsoft 365 Patterns and Practices (PnP) team](https://pnp.github.io/#team)
 - 💻 I am one of the [maintainers](https://pnp.github.io/cli-microsoft365/about/team/#maintainers) of [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/)
 - 💬 Ask me about Microsoft 365, Teams Development
